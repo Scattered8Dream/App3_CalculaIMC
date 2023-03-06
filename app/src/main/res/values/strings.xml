@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">App3_ConversorIMC</string>
+    <string name="txt_peso">Peso (KG) :</string>
+    <string name="txt_altura">Altura (M) :</string>
+    <string name="btn_saida">Calcular IMC</string>
+</resources>
